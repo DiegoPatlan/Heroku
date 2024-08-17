@@ -1,7 +1,7 @@
 {
   "name": "regalo",
   "version": "1.0.0",
-  "main": "expo/AppEntry.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
